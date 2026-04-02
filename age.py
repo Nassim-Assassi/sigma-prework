@@ -39,5 +39,4 @@ def main():
     print(birthdate_to_age(date))
 
 
-# main()
-print(birthday_input.__doc__)
+main()
